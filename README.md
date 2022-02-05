@@ -16,8 +16,10 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 -->
 
+<!-- 
 ## Github
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yshovhun&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yshovhun&layout=compact&theme=dark)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=yshovhun&left_color=green&right_color=red) -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=yshovhun&left_color=green&right_color=red) 
+-->
